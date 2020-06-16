@@ -1,0 +1,9 @@
+[submodule "MVVM/AndroidJetpackMVVMTemplate"]
+	path = MVVM/AndroidJetpackMVVMTemplate
+	url = https://github.com/MoonWolf125/Android-Jetpack-MVVM-Template.git
+[submodule "MVP/AndroidKotlinMVPTemplate"]
+	path = MVP/AndroidKotlinMVPTemplate
+	url = https://github.com/MoonWolf125/Android-Kotlin-MVP-Template.git
+[submodule "MVC/AndroidKotlinMVCTemplate"]
+	path = MVC/AndroidKotlinMVCTemplate
+	url = https://github.com/MoonWolf125/Android-Kotlin-MVC-Template.git
